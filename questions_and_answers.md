@@ -1,16 +1,15 @@
 ## SQL Dictionary Challenge
 
-**Author**: Jaime M. Shaker <br />
-**Email**: jaime.m.shaker@gmail.com <br />
-**Website**: https://www.shaker.dev <br />
-**LinkedIn**: https://www.linkedin.com/in/jaime-shaker/  <br />
+**Author**: Sachin MM <br />
+**Email**: sachinds360@gmail.com <br />
+**Website**: https://www.sachinpfl.xyz <br />
+**LinkedIn**: https://www.linkedin.com/in/sachin-m-6a6a9a171/  <br />
 
 :exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
 
 ### Getting Started:
 
 #### Create new database
-* These excercises use PostgreSQL v.13
 	* You may use any SQL database as these excercises use standard SQL.
 *  Name your new database 'one_column_sql' or whatever you like.
 *  All of these commands and instructions are also located in the [dictionary_challenge.sql](https://github.com/iweld/one_column_sql/blob/main/dictionary_challenge.sql "dictionary_challenge.sql") file.
