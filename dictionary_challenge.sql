@@ -1,6 +1,3 @@
-/*
-	Simple PostgreSQL exercises using only one column of English words.
-*/
 
 -- Create Schema
 
