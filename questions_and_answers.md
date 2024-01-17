@@ -12,8 +12,7 @@
 #### Create new database
 	* You may use any SQL database as these excercises use standard SQL.
 *  Name your new database 'one_column_sql' or whatever you like.
-*  All of these commands and instructions are also located in the [dictionary_challenge.sql](https://github.com/iweld/one_column_sql/blob/main/dictionary_challenge.sql "dictionary_challenge.sql") file.
-
+*  All of these commands and instructions are also located in the [dictionary_challenge.sql]
 #### Create a schema named 'dictionary_challenge'.
 
 ```sql
@@ -1186,7 +1185,7 @@ LIMIT 10;
 </details>
 <br>
 
-[Return to README page](https://github.com/iweld/one_column_sql "Return to README page") file.
+
 
 
 
