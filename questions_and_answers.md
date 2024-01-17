@@ -955,7 +955,7 @@ PL/pgSQL is a loadable procedural language for the PostgreSQL database system. T
 * can perform complex computations,
 * inherits all user-defined types, functions, procedures, and operators
 
-https://www.postgresql.org/docs/current/plpgsql-overview.html
+
 
 <h4 name="q24">24.  Create a function that returns the number of words between a low and high letter count.  Return the number or words with character lengths between 4 and 7 characters.</h4>
 
